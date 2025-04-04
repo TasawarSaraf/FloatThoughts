@@ -1,0 +1,21 @@
+# Firebase
+GoogleService-Info.plist
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Derived Data
+DerivedData/
+
+# SwiftPM
+.build/
+.swiftpm/xcode/package.xcworkspace/
+
